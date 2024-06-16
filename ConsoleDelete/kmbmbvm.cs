@@ -1,6 +1,6 @@
 ﻿namespace ConsoleDelete;
 
-public class fsdhfsdhsfdh
+public class kmbmbvm
 {
     
 }
